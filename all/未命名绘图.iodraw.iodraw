@@ -4,8 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="yLJgJTpZAreRHzlwbf98-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yLJgJTpZAreRHzlwbf98-1" target="yLJgJTpZAreRHzlwbf98-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yLJgJTpZAreRHzlwbf98-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实测湖泊水质数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="84" width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yLJgJTpZAreRHzlwbf98-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.451;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yLJgJTpZAreRHzlwbf98-4" target="yLJgJTpZAreRHzlwbf98-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLJgJTpZAreRHzlwbf98-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;影像匹配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="147.75" y="155" width="102.5" height="40" as="geometry" />
