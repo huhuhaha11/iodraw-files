@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="yLJgJTpZAreRHzlwbf98-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="78" width="120" height="60" as="geometry" />
+        <mxCell id="yLJgJTpZAreRHzlwbf98-1" value="实测湖泊水质数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="74" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
