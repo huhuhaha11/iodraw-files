@@ -25,11 +25,11 @@
         <mxCell id="yLJgJTpZAreRHzlwbf98-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;其他水质参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="12" y="226" width="111.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yLJgJTpZAreRHzlwbf98-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;叶绿素-a浓度值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yLJgJTpZAreRHzlwbf98-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;卫星遥感数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="341" y="84" width="111.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yLJgJTpZAreRHzlwbf98-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;叶绿素-a浓度值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="351" y="94" width="111.25" height="40" as="geometry" />
+          <mxGeometry x="341" y="155" width="111.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
